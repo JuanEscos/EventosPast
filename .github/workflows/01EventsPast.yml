@@ -1,6 +1,5 @@
 name: 01EventsPast
 
-
 on:
   schedule:
     - cron: '1 0 * * *'   # Diario a las 00:01 UTC
