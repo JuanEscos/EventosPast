@@ -1,5 +1,6 @@
 name: 02EventsPastINFO
 
+
 on:
   schedule:
     - cron: '1 2 * * *'  # Ejecutar diariamente a las 02:01 UTC
